@@ -1,0 +1,202 @@
+{
+  "E:\\04Project\\Cocos\\Portal\\assets\\material.meta": {
+    "time": 1662390709920.9968
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\prefab.meta": {
+    "time": 1662390709921.974
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\scene.meta": {
+    "time": 1662390709922.9512
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script.meta": {
+    "time": 1662390709923.929
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\skybox.meta": {
+    "time": 1662390709924.9055
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script\\v2.meta": {
+    "time": 1662390710023.597
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script\\v2\\CamCtrl.ts.meta": {
+    "time": 1662390710029.4602
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script\\v2\\Door.ts.meta": {
+    "time": 1662390710030.4373
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script\\v2\\DoorCtrl.ts.meta": {
+    "time": 1662390710035.3235
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script\\v2\\PlayerCtrl.ts.meta": {
+    "time": 1662390710036.2993
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script\\v2\\trueDoor.ts.meta": {
+    "time": 1662390710037.2776
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material": {
+    "time": 1662453166625.6487,
+    "uuid": "b71b019a-92a8-455d-867b-811c3651a378",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\prefab": {
+    "time": 1662390924629.3613,
+    "uuid": "8781caec-d62b-4084-a22d-9d61fc4ee3f6",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\scene": {
+    "time": 1662390710048.0251,
+    "uuid": "7a454743-bf8e-4cb6-9541-fe8df7e2e035",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script": {
+    "time": 1662391208800.4973,
+    "uuid": "e3dbf89e-3d99-4b35-a9b6-bdfdb5dbdda3",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\skybox": {
+    "time": 1662390811475.505,
+    "uuid": "9132e4c7-793c-449c-aa64-a6f78b91b813",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script\\v2": {
+    "time": 1662450943831.9497,
+    "uuid": "5a4f485a-53bf-44ee-a33c-e3e9f32a3be6",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script\\v2\\CamCtrl.ts": {
+    "time": 1662381970852.2622,
+    "uuid": "3cb9a819-c249-4b3a-bdd2-74f9f50e47bf",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script\\v2\\Door.ts": {
+    "time": 1662451925924.9658,
+    "uuid": "1b8e2cb9-52a5-42f7-a368-859194acc286",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script\\v2\\DoorCtrl.ts": {
+    "time": 1662452422618.343,
+    "uuid": "07043080-035c-4896-9fca-a37d6b4a5de1",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script\\v2\\PlayerCtrl.ts": {
+    "time": 1662384075462.5818,
+    "uuid": "b0a63f65-a49e-47ea-bd0f-1c4c164c50ae",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\script\\v2\\trueDoor.ts": {
+    "time": 1662382840855.0303,
+    "uuid": "c4b96f56-c652-4b0f-a248-91acbb93b44f",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\blue.mtl.meta": {
+    "time": 1662390710063.6597
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\CameraView.mtl.meta": {
+    "time": 1662390710059.7517
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\red.mtl.meta": {
+    "time": 1662390710061.7068
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\prefab\\trueDoor.prefab.meta": {
+    "time": 1662390710065.614
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\prefab\\virtualDoor.prefab.meta": {
+    "time": 1662390710067.5679
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\scene\\scene.scene.meta": {
+    "time": 1662390710069.5247
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\skybox\\sunnySkyBox.jpg.meta": {
+    "time": 1662390798136.0957
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\skybox\\sunnySkyBox_reflection.png.meta": {
+    "time": 1662390821573.6687
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\CameraView.mtl": {
+    "time": 1662391008051.57,
+    "uuid": "903ca876-7425-44bc-b2d8-2db2b0cf8d9f",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\red.mtl": {
+    "time": 1661697658281.109,
+    "uuid": "e89253b5-c7bd-4df0-ae53-bd3052272132",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\blue.mtl": {
+    "time": 1662452980581.3418,
+    "uuid": "5fdddb55-7926-450f-ad90-4ac1bc8efd8e",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\prefab\\trueDoor.prefab": {
+    "time": 1662453540836.9612,
+    "uuid": "47f5b819-5aa7-4ef3-88d5-bd4e864cf678",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\prefab\\virtualDoor.prefab": {
+    "time": 1662452399637.045,
+    "uuid": "7b48c0d3-cbb8-4942-80ba-6a5c2ed716f4",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\scene\\scene.scene": {
+    "time": 1662453793516.582,
+    "uuid": "0bab24c7-7760-44aa-a28e-cb1c0d631414",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\skybox\\sunnySkyBox.jpg": {
+    "time": 1632892382000,
+    "uuid": "180341df-813d-4f4a-adb6-4d6ae6262a0b",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\skybox\\sunnySkyBox_reflection.png": {
+    "time": 1662390811504.38,
+    "uuid": "64d067ff-17e6-4732-939b-3213d067bdeb",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\builtin-unlit-ex.effect.meta": {
+    "time": 1662390710040.2083
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\builtin-unlit-ex.effect": {
+    "time": 1661655067916.0952,
+    "uuid": "795c540e-959a-4171-86e1-721167974772",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\green.mtl.meta": {
+    "time": 1662452786928.4622
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\green.mtl": {
+    "time": 1662452976763.5864,
+    "uuid": "8e592056-5a61-45a0-bd09-603fe41467b4",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\yellow.mtl.meta": {
+    "time": 1662452787967.245
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\yellow.mtl": {
+    "time": 1662452966113.5874,
+    "uuid": "99272c1b-5e57-418f-a513-212fd483e672",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\pink.mtl.meta": {
+    "time": 1662452990543.8025
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\pink.mtl": {
+    "time": 1662453010006.37,
+    "uuid": "798789d8-6e44-4568-b86d-167884532f5c",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\black.mtl.meta": {
+    "time": 1662453019054.5999
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\black.mtl": {
+    "time": 1662453029815.7249,
+    "uuid": "39484a89-6382-4a1f-a977-8b11ebcb973c",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\white.mtl.meta": {
+    "time": 1662453162438.6409
+  },
+  "E:\\04Project\\Cocos\\Portal\\assets\\material\\white.mtl": {
+    "time": 1662453172499.9211,
+    "uuid": "2481bb89-54a3-477e-a624-ad1c0357c36a",
+    "missing": false
+  }
+}

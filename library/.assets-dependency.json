@@ -1,0 +1,147 @@
+{
+  "path": {
+    "E:\\04Project\\Cocos\\Portal\\assets\\prefab\\builtin-unlit-ex.effect": [
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\input.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-base.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\morph.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\skinning.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\local-batch.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-base.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\effect\\fog.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\debug\\debug-view-define.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\input.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\decode.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\decode-base.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\common\\common-define.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\morph.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\skinning.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\local-batch.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\fog-base.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\common\\effect\\fog.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\output.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\common\\color\\gamma.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\common\\debug\\debug-view-define.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\fog-fs.chunk"
+    ],
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\builtin-unlit-ex.effect": [
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\input.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-base.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\morph.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\skinning.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\local-batch.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-base.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\effect\\fog.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\debug\\debug-view-define.chunk",
+      "E:\\00Software\\CocosDashboard\\resources\\.editors\\Creator\\3.6.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\input.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\decode.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\decode-base.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\common\\common-define.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\morph.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\skinning.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\local-batch.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\fog-base.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\common\\effect\\fog.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\output.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\common\\color\\gamma.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\common\\debug\\debug-view-define.chunk",
+      "E:\\04Project\\Cocos\\Portal\\assets\\chunks\\legacy\\fog-fs.chunk"
+    ]
+  },
+  "uuid": {
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\blue.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\CameraView.mtl": [
+      "eab7a928-576c-48c4-82de-45142a186eb2",
+      "795c540e-959a-4171-86e1-721167974772"
+    ],
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\blue-001.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\blue-002.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\green.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\yellow.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\pink.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\pink-001.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\black.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\black-001.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\04Project\\Cocos\\Portal\\assets\\material\\white.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  }
+}

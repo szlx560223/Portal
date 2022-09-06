@@ -1,0 +1,322 @@
+{
+  "b71b019a-92a8-455d-867b-811c3651a378": {
+    "url": "db://assets/material",
+    "value": {}
+  },
+  "8781caec-d62b-4084-a22d-9d61fc4ee3f6": {
+    "url": "db://assets/prefab",
+    "value": {}
+  },
+  "7a454743-bf8e-4cb6-9541-fe8df7e2e035": {
+    "url": "db://assets/scene",
+    "value": {}
+  },
+  "e3dbf89e-3d99-4b35-a9b6-bdfdb5dbdda3": {
+    "url": "db://assets/script",
+    "value": {}
+  },
+  "9132e4c7-793c-449c-aa64-a6f78b91b813": {
+    "url": "db://assets/skybox",
+    "value": {}
+  },
+  "795c540e-959a-4171-86e1-721167974772": {
+    "url": "db://assets/material/builtin-unlit-ex.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "0c07f702-f57d-4587-967e-8bcb6b18e451": {
+    "url": "db://assets/script/v1",
+    "value": {}
+  },
+  "5a4f485a-53bf-44ee-a33c-e3e9f32a3be6": {
+    "url": "db://assets/script/v2",
+    "value": {}
+  },
+  "3b390756-83f8-4a5b-a3c5-b9b407222ca9": {
+    "url": "db://assets/script/v1/CamCtrl.ts",
+    "value": {}
+  },
+  "709022d4-ae63-4c93-a799-b2c7a959c388": {
+    "url": "db://assets/script/v1/PlayerCtrl.ts",
+    "value": {}
+  },
+  "3cb9a819-c249-4b3a-bdd2-74f9f50e47bf": {
+    "url": "db://assets/script/v2/CamCtrl.ts",
+    "value": {}
+  },
+  "1b8e2cb9-52a5-42f7-a368-859194acc286": {
+    "url": "db://assets/script/v2/Door.ts",
+    "value": {}
+  },
+  "07043080-035c-4896-9fca-a37d6b4a5de1": {
+    "url": "db://assets/script/v2/DoorCtrl.ts",
+    "value": {}
+  },
+  "b0a63f65-a49e-47ea-bd0f-1c4c164c50ae": {
+    "url": "db://assets/script/v2/PlayerCtrl.ts",
+    "value": {}
+  },
+  "c4b96f56-c652-4b0f-a248-91acbb93b44f": {
+    "url": "db://assets/script/v2/trueDoor.ts",
+    "value": {}
+  },
+  "5fdddb55-7926-450f-ad90-4ac1bc8efd8e": {
+    "url": "db://assets/material/blue.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "903ca876-7425-44bc-b2d8-2db2b0cf8d9f": {
+    "url": "db://assets/material/CameraView.mtl",
+    "value": {
+      "depends": [
+        "795c540e-959a-4171-86e1-721167974772"
+      ]
+    }
+  },
+  "e89253b5-c7bd-4df0-ae53-bd3052272132": {
+    "url": "db://assets/material/red.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "47f5b819-5aa7-4ef3-88d5-bd4e864cf678": {
+    "url": "db://assets/prefab/trueDoor.prefab",
+    "value": {
+      "depends": [
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "903ca876-7425-44bc-b2d8-2db2b0cf8d9f",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "e89253b5-c7bd-4df0-ae53-bd3052272132",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a"
+      ]
+    }
+  },
+  "7b48c0d3-cbb8-4942-80ba-6a5c2ed716f4": {
+    "url": "db://assets/prefab/virtualDoor.prefab",
+    "value": {
+      "depends": []
+    }
+  },
+  "0bab24c7-7760-44aa-a28e-cb1c0d631414": {
+    "url": "db://assets/scene/scene.scene",
+    "value": {
+      "depends": [
+        "0bab24c7-7760-44aa-a28e-cb1c0d631414",
+        "e89253b5-c7bd-4df0-ae53-bd3052272132",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "99272c1b-5e57-418f-a513-212fd483e672",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "8e592056-5a61-45a0-bd09-603fe41467b4",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "5fdddb55-7926-450f-ad90-4ac1bc8efd8e",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "39484a89-6382-4a1f-a977-8b11ebcb973c",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "2481bb89-54a3-477e-a624-ad1c0357c36a",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "2481bb89-54a3-477e-a624-ad1c0357c36a",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "39484a89-6382-4a1f-a977-8b11ebcb973c",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "798789d8-6e44-4568-b86d-167884532f5c",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@801ec",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "47f5b819-5aa7-4ef3-88d5-bd4e864cf678",
+        "47f5b819-5aa7-4ef3-88d5-bd4e864cf678",
+        "5fdddb55-7926-450f-ad90-4ac1bc8efd8e",
+        "7b48c0d3-cbb8-4942-80ba-6a5c2ed716f4",
+        "7b48c0d3-cbb8-4942-80ba-6a5c2ed716f4",
+        "dd85a987-9424-43e4-9129-28c1eed2918e",
+        "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0",
+        "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0",
+        "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0"
+      ]
+    }
+  },
+  "180341df-813d-4f4a-adb6-4d6ae6262a0b": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "64d067ff-17e6-4732-939b-3213d067bdeb": {
+    "url": "db://assets/skybox/sunnySkyBox_reflection.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "180341df-813d-4f4a-adb6-4d6ae6262a0b@6c48a": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@6c48a",
+    "value": {
+      "depends": [
+        "180341df-813d-4f4a-adb6-4d6ae6262a0b"
+      ]
+    }
+  },
+  "64d067ff-17e6-4732-939b-3213d067bdeb@6c48a": {
+    "url": "db://assets/skybox/sunnySkyBox_reflection.png@6c48a",
+    "value": {
+      "depends": [
+        "64d067ff-17e6-4732-939b-3213d067bdeb"
+      ]
+    }
+  },
+  "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0": {
+    "url": "db://assets/skybox/sunnySkyBox_reflection.png@b47c0",
+    "value": {
+      "depends": [
+        "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0@e9a6d",
+        "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0@40c10",
+        "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0@8fd34",
+        "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0@74afd",
+        "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0@bb97f",
+        "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0@7d38f"
+      ]
+    }
+  },
+  "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0@e9a6d": {
+    "url": "db://assets/skybox/sunnySkyBox_reflection.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0@40c10": {
+    "url": "db://assets/skybox/sunnySkyBox_reflection.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0@bb97f": {
+    "url": "db://assets/skybox/sunnySkyBox_reflection.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0@7d38f": {
+    "url": "db://assets/skybox/sunnySkyBox_reflection.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0@74afd": {
+    "url": "db://assets/skybox/sunnySkyBox_reflection.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "64d067ff-17e6-4732-939b-3213d067bdeb@b47c0@8fd34": {
+    "url": "db://assets/skybox/sunnySkyBox_reflection.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0",
+    "value": {
+      "depends": [
+        "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0@e9a6d",
+        "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0@40c10",
+        "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0@8fd34",
+        "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0@74afd",
+        "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0@bb97f",
+        "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0@7d38f"
+      ]
+    }
+  },
+  "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0@e9a6d": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0@40c10": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0@bb97f": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0@7d38f": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0@74afd": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "180341df-813d-4f4a-adb6-4d6ae6262a0b@b47c0@8fd34": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "8e592056-5a61-45a0-bd09-603fe41467b4": {
+    "url": "db://assets/material/green.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "99272c1b-5e57-418f-a513-212fd483e672": {
+    "url": "db://assets/material/yellow.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "798789d8-6e44-4568-b86d-167884532f5c": {
+    "url": "db://assets/material/pink.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "39484a89-6382-4a1f-a977-8b11ebcb973c": {
+    "url": "db://assets/material/black.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "2481bb89-54a3-477e-a624-ad1c0357c36a": {
+    "url": "db://assets/material/white.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  }
+}
