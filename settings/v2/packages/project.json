@@ -1,0 +1,14 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "layer": [
+    {
+      "name": "ignore_showing",
+      "value": 1
+    }
+  ]
+}
