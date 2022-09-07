@@ -6,13 +6,9 @@ export class PlayerCtrl extends Component {
     //玩家节点
     @property(Node)
     Player:Node = null !
-    //摄像机节点
-    @property(Node)
-    playerCamera:Node = null !   
-    //场景节点
-    @property(Node)
-    GameScene:Node = null !
 
+    //摄像机节点
+    public playerCamera:Node; 
     //刚体组件
     public RigidBodyComponent:RigidBody;
     //碰撞箱组件
@@ -29,6 +25,8 @@ export class PlayerCtrl extends Component {
     start() {
         // 绑定单例
         PlayerCtrl.instance = this;
+        //获取摄像机
+        this.playerCamera = this.Player.getChildByName("Main Camera")
         // 获取组件
         this.RigidBodyComponent = this.Player.getComponent(RigidBody);
         this.ColliderComponent = this.Player.getComponent(BoxCollider);

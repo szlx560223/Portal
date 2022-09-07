@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 6564.511700000003,
+      "mTimestamp": 6037.3554,
       "chunkId": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53",
       "imports": [
         {
@@ -556,11 +556,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 3397801.8085000003,
+      "mTimestamp": 141921.78680000012,
       "chunkId": "52e8a9e14f500a509b526e3a9f1d96810f76ca10",
       "imports": [
         {
-          "value": "file:///E:/04Project/Cocos/Portal/assets/script/v2/CamCtrl.ts",
+          "value": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/CamCtrl.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -569,12 +569,12 @@
             },
             "end": {
               "line": 4,
-              "column": 70
+              "column": 78
             }
           }
         },
         {
-          "value": "file:///E:/04Project/Cocos/Portal/assets/script/v2/Door.ts",
+          "value": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/Door.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -583,12 +583,12 @@
             },
             "end": {
               "line": 5,
-              "column": 67
+              "column": 75
             }
           }
         },
         {
-          "value": "file:///E:/04Project/Cocos/Portal/assets/script/v2/DoorCtrl.ts",
+          "value": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/DoorCtrl.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -597,12 +597,12 @@
             },
             "end": {
               "line": 6,
-              "column": 71
+              "column": 79
             }
           }
         },
         {
-          "value": "file:///E:/04Project/Cocos/Portal/assets/script/v2/PlayerCtrl.ts",
+          "value": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/PlayerCtrl.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -611,12 +611,12 @@
             },
             "end": {
               "line": 7,
-              "column": 73
+              "column": 81
             }
           }
         },
         {
-          "value": "file:///E:/04Project/Cocos/Portal/assets/script/v2/trueDoor.ts",
+          "value": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/trueDoor.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
@@ -625,7 +625,7 @@
             },
             "end": {
               "line": 8,
-              "column": 71
+              "column": 79
             }
           }
         }
@@ -635,35 +635,35 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///E:/04Project/Cocos/Portal/assets/script/v2/CamCtrl.ts"
+            "url": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/CamCtrl.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///E:/04Project/Cocos/Portal/assets/script/v2/Door.ts"
+            "url": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/Door.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///E:/04Project/Cocos/Portal/assets/script/v2/DoorCtrl.ts"
+            "url": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/DoorCtrl.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///E:/04Project/Cocos/Portal/assets/script/v2/PlayerCtrl.ts"
+            "url": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/PlayerCtrl.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///E:/04Project/Cocos/Portal/assets/script/v2/trueDoor.ts"
+            "url": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/trueDoor.ts"
           },
           "messages": []
         }
@@ -983,7 +983,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1662449026970,
+      "mTimestamp": 1662560339521,
       "chunkId": "3a1fd7b13056478820ebedd306d3446d1aa408cc",
       "imports": [],
       "type": "esm",
@@ -991,10 +991,10 @@
     },
     "file:///E:/04Project/Cocos/Portal/assets/script/v2/trueDoor.ts": {
       "mTimestamp": {
-        "mtime": 1662382840855.0303,
+        "mtime": 1662453882870.6133,
         "uuid": "c4b96f56-c652-4b0f-a248-91acbb93b44f"
       },
-      "chunkId": "690aedd8271c3ffcac1fd653dff7131dd3036dee",
+      "chunkId": "bdbe4a4dcd97ff736a7a22367d7dcaf9f956443a",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -1121,6 +1121,393 @@
         "uuid": "b0a63f65-a49e-47ea-bd0f-1c4c164c50ae"
       },
       "chunkId": "79b2b8ac84764b0387c09bb17e7509490c3fbed0",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 152
+            },
+            "end": {
+              "line": 1,
+              "column": 156
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/CamCtrl.ts": {
+      "mTimestamp": {
+        "mtime": 1662381970852.2622,
+        "uuid": "3cb9a819-c249-4b3a-bdd2-74f9f50e47bf"
+      },
+      "chunkId": "f7310c475160f73ebd3408f55dea83762db1a773",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 85
+            },
+            "end": {
+              "line": 2,
+              "column": 89
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/Door.ts": {
+      "mTimestamp": {
+        "mtime": 1662451925924.9658,
+        "uuid": "1b8e2cb9-52a5-42f7-a368-859194acc286"
+      },
+      "chunkId": "921e206172ef5e437f81242bfa530b87a7312eb0",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 60
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/DoorCtrl.ts": {
+      "mTimestamp": {
+        "mtime": 1662452422618.343,
+        "uuid": "07043080-035c-4896-9fca-a37d6b4a5de1"
+      },
+      "chunkId": "e868d7c65f6cf825a42149a46796d409cdaee347",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 130
+            },
+            "end": {
+              "line": 1,
+              "column": 134
+            }
+          }
+        },
+        {
+          "value": "./Door",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 21
+            },
+            "end": {
+              "line": 2,
+              "column": 29
+            }
+          }
+        },
+        {
+          "value": "./trueDoor",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 37
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/Door.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/trueDoor.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/trueDoor.ts": {
+      "mTimestamp": {
+        "mtime": 1662453882870.6133,
+        "uuid": "c4b96f56-c652-4b0f-a248-91acbb93b44f"
+      },
+      "chunkId": "9069e5b78aa5415aeb4936ab39ec22c503fa817e",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 66
+            },
+            "end": {
+              "line": 1,
+              "column": 70
+            }
+          }
+        },
+        {
+          "value": "./Door",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 21
+            },
+            "end": {
+              "line": 2,
+              "column": 29
+            }
+          }
+        },
+        {
+          "value": "./DoorCtrl",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 37
+            }
+          }
+        },
+        {
+          "value": "./PlayerCtrl",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/Door.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/DoorCtrl.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/PlayerCtrl.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/04Project/Cocos/00Demos/Portal/assets/script/v2/PlayerCtrl.ts": {
+      "mTimestamp": {
+        "mtime": 1662560479290.0615,
+        "uuid": "b0a63f65-a49e-47ea-bd0f-1c4c164c50ae"
+      },
+      "chunkId": "a5902a6a7753a5586f67b690952a780142b69f0c",
       "imports": [
         {
           "value": "cc"
